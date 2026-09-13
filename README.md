@@ -5,20 +5,29 @@
 </p>
 
 ### Sobre Mim 💻
-* 🌱 Atualmente cursando Ciência da Computação na FIAP.
+* 🌱 Atualmente cursando Ciência da Computação na FIAP, focado em evoluir cada vez mais na engenharia de software.
 * ☕ Desenvolvedor Back-End apaixonado por criar soluções escaláveis, tendo o **Java** como linguagem principal.
 * 🌐 Experiência prévia em desenvolvimento Full-Stack, com vivência em projetos web reais.
 * ⚡ Sempre em busca de evolução em arquitetura de software, bancos de dados e boas práticas de código limpo.
 
 ---
 
+### Formação Acadêmica 🎓
+* 🇧🇷 **Bacharelado em Ciência da Computação** — Cursando (Previsão: 2029)
+* 🇵🇪 **Tecnólogo em Engenharia de Software** — Formado (Peru)
+
+---
+
 ### Tecnologias e Ferramentas 🛠️
 
-**Linguagens Principais:**
+**Linguagens e Frameworks Back-End:**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 **Banco de Dados:**
