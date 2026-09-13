@@ -14,7 +14,7 @@
 
 ### Formação Acadêmica 🎓
 * 🇧🇷 **Bacharelado em Ciência da Computação** — Cursando (Previsão: 2029)
-* 🇵🇪 **Tecnólogo em Engenharia de Software** — Formado (Peru: 2024)
+* 🇵🇪 **Tecnólogo em Engenharia de Software** — Formado (Peru - 2024)
 
 ---
 
