@@ -8,7 +8,7 @@
 * 🌱 Atualmente cursando Ciência da Computação na FIAP, focado em evoluir cada vez mais na engenharia de software.
 * ☕ Desenvolvedor Back-End apaixonado por criar soluções escaláveis, tendo o **Java** como linguagem principal.
 * 🌐 Experiência prévia em desenvolvimento Full-Stack, com vivência em projetos web reais.
-* ⚡ Sempre em busca de evolução em arquitetura de software, bancos de dados e boas práticas de código limpo.
+* ⚡ Sempre em busca de evolução em arquitetura de software, bancos de dados, IA e boas práticas de código limpo.
 
 ---
 
