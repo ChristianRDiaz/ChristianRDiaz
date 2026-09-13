@@ -5,7 +5,7 @@
 </p>
 
 ### Sobre Mim 💻
-* 🌱 Atualmente cursando Ciência da Computação e atuando com suporte em TI.
+* 🌱 Atualmente cursando Ciência da Computação na FIAP .
 * ☕ Desenvolvedor Back-End apaixonado por criar soluções escaláveis, tendo o **Java** como linguagem principal.
 * 🌐 Experiência prévia em desenvolvimento Full-Stack, com vivência em projetos web reais.
 * ⚡ Sempre em busca de evolução em arquitetura de software, bancos de dados e boas práticas de código limpo.
