@@ -1,9 +1,5 @@
 <h1 align="center">Olá, eu sou o Christian Diaz! 🚀</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=180&section=header&text=Back-End%20Developer%20&fontSize=35&fontColor=fff&animation=fadeIn" width="100%"/>
-</p>
-
 ### Sobre Mim 💻
 
 - ☕ Desenvolvedor **Back-End** com foco em **Java e Spring Boot**.
