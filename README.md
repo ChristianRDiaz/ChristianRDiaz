@@ -59,8 +59,8 @@
 ### Estatísticas no GitHub 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianRDiaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianRDiaz&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianRDiaz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianRDiaz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="165" />
 </p>
 
 ---
